@@ -1,2 +1,2 @@
 my nano2
-[readme](README.md)
+*[readme](README.md)*
